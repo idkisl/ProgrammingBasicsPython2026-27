@@ -6,9 +6,13 @@
 
 ## Ведомость курса
 [Ссылка](https://docs.google.com/spreadsheets/d/1KqIT8R_PjH5XJvisf5GXubT6BMa21aD66yLm6EffMHo/edit?usp=sharing) на ведомость курса осеннего семестра.
+
 [Канал]() с информацией для студентов.
+
 [Ссылка]() на записи лекций на YouTube
+
 [Zoom](https://us06web.zoom.us/j/86009641893?pwd=PtxEmociikOt0sFbcBb5HQuENzTlCe.1) лекций по субботам 10:00 - 11:20 МСК.
+
 ## Программа курса
 00. Установочное занятие
 01. Ввод / вывод / переменные / if - elif - else
