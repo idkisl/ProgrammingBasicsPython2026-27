@@ -7,7 +7,7 @@
 ## Ведомость курса
 [Ссылка](https://docs.google.com/spreadsheets/d/1KqIT8R_PjH5XJvisf5GXubT6BMa21aD66yLm6EffMHo/edit?usp=sharing) на ведомость курса осеннего семестра.
 
-[Канал]() с информацией для студентов.
+[Канал](https://t.me/+9dI7mou4C2hmYmZi) с информацией для студентов.
 
 [Ссылка]() на записи лекций на YouTube
 
