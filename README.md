@@ -9,7 +9,7 @@
 
 [Канал](https://t.me/+9dI7mou4C2hmYmZi) с информацией для студентов.
 
-[Ссылка]() на записи лекций на YouTube
+[Ссылка](https://youtube.com/playlist?list=PLQbulqRjzdqg&si=-pku_dvawnesMX0E) на записи лекций на YouTube
 
 [Zoom](https://us06web.zoom.us/j/86009641893?pwd=PtxEmociikOt0sFbcBb5HQuENzTlCe.1) лекций по субботам 10:00 - 11:20 МСК.
 
